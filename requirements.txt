@@ -1,5 +1,0 @@
-langchain
-fastapi
-uvicorn
-python-multipart
-streamlit
